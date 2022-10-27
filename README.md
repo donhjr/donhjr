@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @donhjr
+- 👋 Hi, I’m Don
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning to code better
 - 📫 How to reach me @ donjiarongho@gmail.com
